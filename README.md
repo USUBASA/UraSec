@@ -2,7 +2,12 @@
 
 Security-focused developer building practical tools for defensive cybersecurity and system analysis.
 
+## About
+
+Student developer focused on learning cybersecurity through hands-on projects and practical tools.
+
 ## Core Focus
+
 - Log Analysis & Event Monitoring
 - Attack Pattern Detection
 - Linux System Security
@@ -10,6 +15,7 @@ Security-focused developer building practical tools for defensive cybersecurity 
 - Secure Coding Practices
 
 ## Technical Stack
+
 - Python
 - Linux
 - Git
@@ -17,9 +23,11 @@ Security-focused developer building practical tools for defensive cybersecurity 
 - SQL (Basic)
 
 ## Active Projects
-- Log Analyzer
-- Password Strength Validator
-- Educational Port Scanner
+
+- Log Analyzer – Detects suspicious patterns in system logs
+- Password Strength Validator – Evaluates password security
+- Educational Port Scanner – Networking learning tool
 
 ## Objective
-Developing real-world security tools while strengthening core cybersecurity fundamentals.
+
+Building real-world defensive security tools while improving programming and cybersecurity skills.
